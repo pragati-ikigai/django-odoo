@@ -1,0 +1,81 @@
+Company Fields
+
+{
+    "name": "LMP",
+    "partner_id": 1,
+    "phone": 246027,
+    "mobile": 9643754567,
+    "email": "lmp@nomail.com",
+    "website": "lmp.pinogy.com",
+    "street": "B-169, Block B",
+    "street2": "Sector 52",
+    "city": "Noida",
+    "state_id": 1,
+    "zip": "201301",
+    "country_id": 1,
+    "vat": "123",
+    "company_registry": "99",
+    "currency_id": 108,
+    "favicon": "",
+    "logo": ""
+}
+
+
+{
+    "name": "IDEMIA",
+    "phone": "246027",
+    "mobile": "9643754567",
+    "email": "lmp@nomail.com",
+    "website": "lmp.pinogy.com",
+    "street": "B-169, Block B",
+    "street2": "Sector 52",
+    "city": "Noida",
+    "state_id": 1,
+    "zip": "201301",
+    "country_id": 1,
+    "vat": "123",
+    "company_registry": "99",
+    "currency_id": 1,
+    "parent_id": 1
+}
+
+{
+    "name": "IDEMIA",
+    "phone": "246027",
+    "mobile": "9643754567",
+    "email": "lmp@nomail.com",
+    "website": "lmp.pinogy.com",
+    "street": "B-169, Block B",
+    "street2": "Sector 52",
+    "city": "Noida",
+    "state_id": 1,
+    "zip": "201301",
+    "country_id": 1,
+    "vat": "123",
+    "company_registry": "99",
+    "currency_id": 1,
+    "parent": "LMP"
+}
+
+
+Task Fields 
+
+{
+    "name": "Login Implementation",
+    "project_id": 1,
+    "partner_id": 1,
+    "planned_date_begin": "",
+    "planned_date_end": "",
+    "date_deadline": "",
+    "tag_ids": "",
+    "company_id": "",
+    "recurring_task": false,
+    "child_ids": [],
+    "kanban_status": "normal, done, blocked"
+}
+
+Project Fields 
+
+{
+    "name": "Login Implementation"
+}
