@@ -103,10 +103,10 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-ODOO_ADDRESS = os.environ.get('ODOO_ADDRESS') or "https://dealsmedia.odoo.com"
-ODOO_DB = os.environ.get('ODOO_DB') or "simple-software-lab-dealsmedia-master-967528"
-ODOO_USER = os.environ.get('ODOO_USER') or "mmeadows@petz.net"
-ODOO_PASS = os.environ.get('ODOO_PASS') or "81815075800c36ce57add08ca49e2a236e360997"
+ODOO_ADDRESS = os.environ.get('ODOO_ADDRESS')
+ODOO_DB = os.environ.get('ODOO_DB')
+ODOO_USER = os.environ.get('ODOO_USER')
+ODOO_PASS = os.environ.get('ODOO_PASS')
 
 # odoo.host = https://dealsmedia.odoo.com
 # odoo.db = simple-software-lab-dealsmedia-master-967528
